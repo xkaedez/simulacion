@@ -65,7 +65,10 @@ sudo apt update && sudo apt upgrade
 ```
 Instalar octave y git
 ```bash
-sudo apt install octave git
+sudo apt install octave
+```
+```bash
+sudo apt install git
 ```
 
 Clonar el repo

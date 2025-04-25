@@ -54,9 +54,9 @@ Entrar a ubuntu
 wsl -d ubuntu
 ```
 
-Agregar el repositorio de Octave
+Agregar el repositorio de [GNU Octave](https://launchpad.net/~octave/+archive/ubuntu/stable)
 ```bash
-sudo add-apt-repository ppa:ubuntuhandbook1/octave
+sudo add-apt-repository ppa:octave/stable
 ```
 
 Actualizar repos

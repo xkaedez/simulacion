@@ -43,7 +43,8 @@ uv pip install -r requirements.txt
 ```
 
 ## WSL
-Esta es la manera facil de levantar el env, los requisitos son git y GNU Octave
+Esta es la manera facil de levantar el env, los requisitos son git y GNU Octave.
+Si se usa una distribucion GNU/Linux saltar al paso de clonar el repo.
 
 en Windows powershell
 ```bash

@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 from oct2py import Oct2Py
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 oc = Oct2Py()
 oc.addpath('../octave')
 
